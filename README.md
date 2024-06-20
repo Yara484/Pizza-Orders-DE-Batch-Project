@@ -1,7 +1,7 @@
 # Pizza Orders (DE Batch Project) 
 Developed a data model to process raw pizza order details. Built the data warehouse architecture and managed ETL workflows using AWS Glue for data transformation. Stored data in S3 and leveraged Redshift for efficient data warehousing and analytics.
 
-[Data Source - Kaggle]([URL](https://www.kaggle.com/datasets/neethimohan/maven-pizza-challenge-dataset)
+[Data Source - Kaggle](https://www.kaggle.com/datasets/neethimohan/maven-pizza-challenge-dataset)
 
 
 | File Name       | Description              |
