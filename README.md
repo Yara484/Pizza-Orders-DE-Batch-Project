@@ -12,14 +12,14 @@ Developed a data model to process raw pizza order details. Built the data wareho
 | data_dictionary.csv | Tables & Field definitions |
 | pizza_data_snowflake_schema.png | DWH Schema with fact and dimension tables |
 | pizzas_etl_test.ipynb | Jupyter notebook for data exploration and testing transformation script |
-| etl_glue_job.py | Final pythons script used in aws glue for ETL |
+| etl_glue_job.py | Final python script used in aws glue for ETL |
 
-Future Plans & Additions :
+**Future Plans & Additions :**
 * Use Redshift tables to create a dashboard on Quicksight or Grafana
 * Use Orchestration to automate the ETL process
 * Update Readme file with extra documentation
 
-Sample screenshots of process on AWS:
+**Sample screenshots of process on AWS :**
 
 Glue ETL Job
 
