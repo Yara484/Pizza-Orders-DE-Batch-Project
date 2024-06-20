@@ -3,8 +3,8 @@ Developed a data model to process raw pizza order details. Built the data wareho
 
 | File Name       | Description              |
 |-----------------|--------------------------|
-| README.md     | Contains the project overview. |
-|                 |                  |
-|                |                            |
+| README.md        | Contains the project overview. |
+| Architecture.png | Diagram of general architecture of the project and tools used |
+| SQL_Queries.sql  | SQL queries used to build the tables in DWH and copy data from S# buckets to Redshift|
 |                    |                        |
 |            |               |
