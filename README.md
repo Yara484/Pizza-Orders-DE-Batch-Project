@@ -3,6 +3,8 @@ Developed a data model to process raw pizza order details. Built the data wareho
 
 [Data Source - Kaggle](https://www.kaggle.com/datasets/neethimohan/maven-pizza-challenge-dataset)
 
+![Architecture](https://github.com/Yara484/Pizza-Orders-DE-Batch-Project/assets/51079151/aa43b3cd-56ae-4379-b268-63d963519f1e)
+
 
 | File Name       | Description              |
 |-----------------|--------------------------|
